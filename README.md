@@ -1,2 +1,1 @@
-# darkside_repository
-# awesome_repository
+# my-first-blog
